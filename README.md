@@ -1,0 +1,2 @@
+# smartinittest
+ovo je prijekat
